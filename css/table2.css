@@ -1,0 +1,13 @@
+.scroll-bar {
+    width: 30%;
+    overflow-x: auto;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.15)
+}
+
+
+
+.table-image {
+
+    margin: 0 auto;
+    
+    }
